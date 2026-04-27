@@ -1,30 +1,39 @@
-# 🚀 Hi, I'm Muhammed Haris (Super Haris)
-
-### 🧬 Bio-Maths Student | 🔭 Future Researcher | ✍️ Sci-Fi Writer
+# 🏆 Hi guys I'm Muhammed Haris (Super Haris) | Future Researcher
 
 ---
 
-### 🛠️ Connect & Verify
-<p align="left">
-<a href="https://t.me/shb89channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="shb89channel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@shb89_channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shb89_channel" height="30" width="40" /></a>
-<a href="https://instagram.com/shb89_channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shb89_channel" height="30" width="40" /></a>
-<a href="https://x.com/SHB89_CHANNEL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SHB89_CHANNEL" height="30" width="40" /></a>
+## 🎯 CMI & NIT Trichy Preparation Roadmap
+
+### Phase 1: Foundation (Currently In Focus)
+- **Physics:** Mastering Celestial Mechanics, Lagrangian Dynamics, and Special Relativity for entrance level problems.
+- **Mathematics:** Advanced Calculus, Group Theory, and Real Analysis (focusing on proof-based thinking).
+- **Tooling:** Perfecting **LaTeX** via **Python** automation for documenting research findings.
+
+### Phase 2: Application (2026–2027)
+- [ ] Achieve target percentiles in entrance examinations for **CMI** and **NIT Trichy**.
+- [ ] Finalize the scientifically accurate draft of my Sci-Fi story.
+- [ ] Transition development environment to optimized macOS system (Targeting MacBook Pro 2015/16GB).
+
+---
+
+## 🔬 Core Interests & Verified Identity
+* 🌌 **Astronomy:** Theoretical Astrophysics & Space-Sims.
+* ✍️ **Writing:** Hard Science Fiction Storytelling.
+* 💻 **Computer Science:** Low-level Optimization, System Architecture, & Linux.
+* **🎓 ORCID iD:** [0009-0005-1372-5056](https://orcid.org/0009-0005-1372-5056) (Public Researcher)
+
+---
+
+## 📊 Performance Metrics & Skills Verification
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUPER-HARIS&show_icons=true&theme=dark&hide_border=true" width="48%" alt="General Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUPER-HARIS&layout=compact&theme=dark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
-**🎓 Academic Identity:** - **ORCID iD:** [0009-0005-1372-5056](https://orcid.org/0009-0005-1372-5056)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUPER-HARIS&theme=github-compact" width="48%" alt="Activity Graph" />
 
----
-
-### 🎯 Current Roadmap & Goals
-* 🏆 **Target Institutions:** Preparing for **CMI (Chennai Mathematical Institute)** & **NIT Trichy** Entrance Exams.
-* 🐍 **Python for LaTeX:** Developing scripts to automate complex mathematical formatting and research documentation.
-* 🌌 **Astronomy:** Deeply interested in celestial mechanics and astrophysics.
-* ✍️ **Sci-Fi Writer:** Currently writing a science fiction story (Focusing on scientific accuracy).
-* 💻 **Computer Science:** Passionate about hardware optimization, Linux environments, and system architecture.
-
----
-
-### 📊 GitHub Activity & Skills
-![Super Haris's Stats](https://github-readme-stats.vercel.app/api?username=SUPER-HARIS&show_icons=true&theme=dark)
-
+  <img src="https://komarev.com/ghpvc/?username=SUPER-HARIS&label=Profile+Hits&color=green&style=flat-square" width="48%" alt="Visitor Counter" />
+</p>
